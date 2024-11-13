@@ -5,10 +5,10 @@ Hello, my name is Davi Souza, I am a front-end programmer with a passion for Jav
 <div align="center">
 
 ### Commits e Contribuições
-![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical&count_private=true)
+![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=davistz&show_icons=true&theme=radical&count_private=true)
 
 ### Linguagens mais Usadas
-![Linguagens mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical)
+![Linguagens mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=davistz&layout=compact&theme=radical)
 
 </div>
 
