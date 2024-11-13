@@ -1,16 +1,51 @@
-## Hi there 👋
+Aqui está um exemplo de README para seu perfil no GitHub com as abas que você pediu:
 
-<!--
-**davistz/davistz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+# 👋 Bem-vindo ao meu Perfil GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Sumário
+- [Development Skills](#development-skills)
+- [Operational Systems](#operational-systems)
+- [IDEs](#ides)
+- [Contact](#contact)
+
+---
+
+### 🚀 Development Skills
+Aqui estão algumas das tecnologias e ferramentas com as quais trabalho:
+
+- **Frontend:** React, HTML5, CSS3, JavaScript (ES6+), TypeScript, Styled-Components
+- **Backend:** Node.js, Express, REST APIs, GraphQL
+- **Banco de Dados:** MongoDB, MySQL, PostgreSQL
+- **Controle de Versão:** Git, GitHub
+
+---
+
+### 💻 Operational Systems
+Tenho experiência em desenvolvimento e configuração em:
+
+- **Windows**
+- **Linux** (Ubuntu, CentOS)
+- **MacOS**
+
+---
+
+### 🛠 IDEs
+Aqui estão as IDEs e editores que utilizo regularmente:
+
+- **Visual Studio Code**
+- **IntelliJ IDEA**
+- **Atom**
+
+---
+
+### 📬 Contact
+Se você quiser entrar em contato, pode me encontrar em:
+
+- **Email:** [seu-email@exemplo.com](mailto:seu-email@exemplo.com)
+- **LinkedIn:** [Seu LinkedIn](https://www.linkedin.com/in/seu-perfil)
+- **GitHub:** [Seu GitHub](https://github.com/seu-usuario)
+
+---
+
