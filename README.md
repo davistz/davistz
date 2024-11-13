@@ -1,14 +1,18 @@
 Hello, my name is Davi Souza, I am a front-end programmer with a passion for Java Script and enthusiasm for everything related to technology.
 
-## 📂 Sumário
-- [Development Skills](#development-skills)
-- [Operational Systems](#operational-systems)
-- [IDEs](#ides)
-- [Contact](#contact)
-
 ---
 
-### 🚀 Development Skills
+<div align="center">
+
+### Commits e Contribuições
+![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical&count_private=true)
+
+### Linguagens mais Usadas
+![Linguagens mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical)
+
+</div>
+
+### ☕ Development Skills
 Aqui estão algumas das tecnologias e ferramentas com as quais trabalho:
 
 - **Frontend:** React, HTML5, CSS3, JavaScript (ES6+), TypeScript, Styled-Components
