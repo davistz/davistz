@@ -1,8 +1,4 @@
-Aqui está um exemplo de README para seu perfil no GitHub com as abas que você pediu:
-
----
-
-# 👋 Bem-vindo ao meu Perfil GitHub
+Hello, my name is Davi Souza, I am a front-end programmer with a passion for Java Script and enthusiasm for everything related to technology.
 
 ## 📂 Sumário
 - [Development Skills](#development-skills)
