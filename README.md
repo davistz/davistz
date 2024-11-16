@@ -2,7 +2,6 @@ Hello, my name is Davi Souza, I am a front-end programmer with a passion for Jav
 #
 
 ### ☕ Development Skills
-#
 
 <div >
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="60" width="70" />
@@ -23,7 +22,7 @@ Hello, my name is Davi Souza, I am a front-end programmer with a passion for Jav
 ---
 
 ### 💻 Operational Systems
-Tenho experiência em desenvolvimento e configuração em:
+I have experience in development and configuration in:
 
 - **Windows**
 - **Linux** (Ubuntu, CentOS)
@@ -32,7 +31,7 @@ Tenho experiência em desenvolvimento e configuração em:
 ---
 
 ### 🛠 IDEs
-Aqui estão as IDEs e editores que utilizo regularmente:
+Here are the IDEs and editors I use regularly:
 
 - **Visual Studio Code**
 - **IntelliJ IDEA**
@@ -40,19 +39,20 @@ Aqui estão as IDEs e editores que utilizo regularmente:
 
 ---
 
-### 📬 Contact
-Se você quiser entrar em contato, pode me encontrar em:
 
-- **Email:** [seu-email@exemplo.com](mailto:seu-email@exemplo.com)
-- **LinkedIn:** [Seu LinkedIn](https://www.linkedin.com/in/seu-perfil)
-- **GitHub:** [Seu GitHub](https://github.com/seu-usuario)
-
----
-
-## 📊 Minhas Estatísticas no GitHub
+## 📊 My GitHub Stats
 
 <div style="display: flex; justify-content: center;">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davistz&show_icons=true&theme=radical&count_private=true" alt="Estatísticas GitHub" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davistz&layout=compact&theme=radical" alt="Linguagens mais Usadas" />
 </div>
+
+---
+### 📬 Contact
+If you want to get in touch, you can find me at:
+
+- **Email:** davi.santos07@souunit.com.br
+- **LinkedIn:** [My Likedin](https://www.linkedin.com/in/davi-souza-40b3892a6/)
+- **GitHub:** [My GitHub](https://github.com/davistz)
+
 
