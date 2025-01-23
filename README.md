@@ -55,4 +55,3 @@ If you want to get in touch, you can find me at:
 - **LinkedIn:** [My Likedin](https://www.linkedin.com/in/davi-souza-40b3892a6/)
 - **GitHub:** [My GitHub](https://github.com/davistz)
 
-.
