@@ -42,7 +42,7 @@
 <p align="center"><sub>visuais próprios (pbiviz, TypeScript + three.js) que rodam dentro do Power BI · dados das demos são fictícios</sub></p>
 
 <p align="center">
-  <img src="assets/vendas-3d.gif" width="880" alt="Espelho de Vendas 3D na camada Real: fachada do empreendimento girando enquanto o sol anda das 6h às 18h e as sombras das torres se movem" />
+  <img src="assets/vendas-3d.gif" width="880" alt="Espelho de Vendas 3D girando e passando por todas as camadas (vendas, real, preço por m², área, horas de sol e ritmo de venda) enquanto o sol anda pelo dia e as sombras se movem" />
 </p>
 
 <p align="center">
@@ -51,12 +51,12 @@
 </p>
 
 <p align="center">
-  <img src="assets/bim-ifc.gif" width="880" alt="Modelo IFC no Power BI: torre crescendo pelo cronograma enquanto o custo simulado sobe, câmera girando" />
+  <img src="assets/bim-ifc.gif" width="880" alt="Modelo IFC de um condomínio inteiro no Power BI: muro, guarita, três torres, clube, piscina, quadra e vias aparecendo conforme o cronograma enquanto o custo simulado sobe" />
 </p>
 
 <p align="center">
   <b>Revit / IFC no Power BI · visão 5D</b><br />
-  <sub>modelo exportado do Revit em IFC lido direto no relatório (three.js + web-ifc, sem Revit instalado) · cada peça ligada a uma linha pelo GlobalId · 3D + cronograma (4D) + custo por composição (5D): a torre sobe na data de status e o orçamento acompanha</sub>
+  <sub>modelo exportado do Revit em IFC lido direto no relatório (three.js + web-ifc, sem Revit instalado) · cada peça ligada a uma linha pelo GlobalId · 3D + cronograma (4D) + custo por composição (5D): o condomínio inteiro (muro, guarita, 3 torres, clube, piscina, quadra, vias) vai sendo construído na data de status e o orçamento acompanha</sub>
 </p>
 
 <p align="center">
