@@ -42,12 +42,12 @@
 <p align="center"><sub>visuais próprios (pbiviz, TypeScript + three.js) que rodam dentro do Power BI · dados das demos são fictícios</sub></p>
 
 <p align="center">
-  <img src="assets/vendas-3d.gif" width="880" alt="Espelho de Vendas 3D: empreendimento em 3D girando, alternando camadas de vendas, preço por m², horas de sol e ritmo de venda" />
+  <img src="assets/vendas-3d.gif" width="880" alt="Espelho de Vendas 3D na camada Real: fachada do empreendimento girando enquanto o sol anda das 6h às 18h e as sombras das torres se movem" />
 </p>
 
 <p align="center">
   <b>Espelho de Vendas 3D</b><br />
-  <sub>cada apartamento vira um bloco no prédio, pintado por situação, R$/m², horas de sol real (posição do sol por hora e estação) ou dias até a venda · painel ao lado mostra o que mais pesa na venda · clique filtra o relatório</sub>
+  <sub>cada apartamento vira um bloco no prédio, pintado por situação, R$/m², horas de sol real (posição do sol por hora e estação) ou dias até a venda · na camada Real, luz e sombra seguem o sol de verdade (hora, estação, latitude) · painel ao lado mostra o que mais pesa na venda · clique filtra o relatório</sub>
 </p>
 
 <p align="center">
@@ -60,12 +60,12 @@
 </p>
 
 <p align="center">
-  <img src="assets/obra-5d.gif" width="880" alt="Obra 3D: prédio preenchendo semana a semana por status e depois pintado por desvio de custo" />
+  <img src="assets/obra-3d.gif" width="880" alt="Avanço de obra em 3D: canteiro com gruas e equipe, torres subindo do zero até a entrega conforme o realizado da EAP, com cronograma e previsto x realizado" />
 </p>
 
 <p align="center">
-  <b>Obra 3D · avanço e desvio de custo</b><br />
-  <sub>planejamento ligado ao modelo por pavimento + categoria · semana a semana: concluído, em andamento, atrasado · depois o mesmo prédio pintado pelo desvio de custo (custo real × valor agregado)</sub>
+  <b>Avanço de obra em 3D · realizado × previsto</b><br />
+  <sub>canteiro inteiro em 3D (gruas, equipe, máquinas) montado a partir do avanço físico ponderado pela EAP · estaca, estrutura, alvenaria, fachada e esquadrias aparecem conforme cada tarefa avança · previsto em fantasma, atraso por atividade e orçado × executado</sub>
 </p>
 
 
