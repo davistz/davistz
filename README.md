@@ -50,7 +50,24 @@
   <sub>cada apartamento vira um bloco no prédio, pintado por situação, R$/m², horas de sol real (posição do sol por hora e estação) ou dias até a venda · painel ao lado mostra o que mais pesa na venda · clique filtra o relatório</sub>
 </p>
 
-<!-- PORTFOLIO:BIM -->
+<p align="center">
+  <img src="assets/bim-ifc.gif" width="880" alt="Modelo IFC no Power BI: torre crescendo pelo cronograma enquanto o custo simulado sobe, câmera girando" />
+</p>
+
+<p align="center">
+  <b>Revit / IFC no Power BI · visão 5D</b><br />
+  <sub>modelo exportado do Revit em IFC lido direto no relatório (three.js + web-ifc, sem Revit instalado) · cada peça ligada a uma linha pelo GlobalId · 3D + cronograma (4D) + custo por composição (5D): a torre sobe na data de status e o orçamento acompanha</sub>
+</p>
+
+<p align="center">
+  <img src="assets/obra-5d.gif" width="880" alt="Obra 3D: prédio preenchendo semana a semana por status e depois pintado por desvio de custo" />
+</p>
+
+<p align="center">
+  <b>Obra 3D · avanço e desvio de custo</b><br />
+  <sub>planejamento ligado ao modelo por pavimento + categoria · semana a semana: concluído, em andamento, atrasado · depois o mesmo prédio pintado pelo desvio de custo (custo real × valor agregado)</sub>
+</p>
+
 
 <details>
 <summary><b>projects</b> · clique para abrir</summary>
