@@ -37,35 +37,36 @@
   <img src="https://img.shields.io/badge/git-000000?style=for-the-badge&logo=git&logoColor=white" alt="Git" title="Git: tudo versionado, até painel de BI" />
 </p>
 
-<h3 align="center">portfolio · visuais 3D para Power BI</h3>
+<h3 align="center">portfolio · projetos de B.I. em Power BI</h3>
 
-<p align="center"><sub>visuais próprios (pbiviz, TypeScript + three.js) que rodam dentro do Power BI · dados das demos são fictícios</sub></p>
+<p align="center"><b>tudo aqui é B.I.</b>: cada projeto abaixo roda dentro de um relatório <b>Power BI</b>, como visual personalizado (pbiviz, TypeScript + three.js)<br />
+<sub>lê as tabelas do modelo de dados (SQL Server / DW → Power Query → DAX), responde aos filtros e segmentações da página e filtra os outros visuais ao clicar · dados das demos são fictícios</sub></p>
 
 <p align="center">
   <img src="assets/vendas-3d.gif" width="880" alt="Espelho de Vendas 3D girando e passando por todas as camadas (vendas, real, preço por m², área, horas de sol e ritmo de venda) enquanto o sol anda pelo dia e as sombras se movem" />
 </p>
 
 <p align="center">
-  <b>Espelho de Vendas 3D</b><br />
+  <b>Power BI · Espelho de Vendas 3D</b><br />
   <sub>cada apartamento vira um bloco no prédio, pintado por situação, R$/m², horas de sol real (posição do sol por hora e estação) ou dias até a venda · na camada Real, luz e sombra seguem o sol de verdade (hora, estação, latitude) · painel ao lado mostra o que mais pesa na venda · clique filtra o relatório</sub>
 </p>
 
 <p align="center">
-  <img src="assets/bim-ifc.gif" width="880" alt="Modelo IFC de um condomínio inteiro no Power BI: muro, guarita, três torres, clube, piscina, quadra e vias aparecendo conforme o cronograma enquanto o custo simulado sobe" />
+  <img src="assets/bim-ifc.gif" width="880" alt="Modelo IFC detalhado de um condomínio inteiro no Power BI: muro, guarita, três torres, salão de festas, academia, churrasqueira, piscina, quadra, pet place, vias e árvores aparecendo conforme o cronograma enquanto o custo simulado sobe" />
 </p>
 
 <p align="center">
-  <b>Revit / IFC no Power BI · visão 5D</b><br />
-  <sub>modelo exportado do Revit em IFC lido direto no relatório (three.js + web-ifc, sem Revit instalado) · cada peça ligada a uma linha pelo GlobalId · 3D + cronograma (4D) + custo por composição (5D): o condomínio inteiro (muro, guarita, 3 torres, clube, piscina, quadra, vias) vai sendo construído na data de status e o orçamento acompanha</sub>
+  <b>Power BI · Revit / IFC com visão 5D</b><br />
+  <sub>modelo exportado do Revit em IFC lido direto no relatório (three.js + web-ifc, sem Revit instalado) · cada peça ligada a uma linha pelo GlobalId · 3D + cronograma (4D) + custo por composição (5D): o condomínio inteiro (muro com gradil, guarita, 3 torres com vigas, varandas e cobertura, salão de festas, academia, churrasqueira, piscina, quadra, pet place, quiosques, vias, vagas e paisagismo) vai sendo construído na data de status e o orçamento acompanha</sub>
 </p>
 
 <p align="center">
-  <img src="assets/obra-3d.gif" width="880" alt="Avanço de obra em 3D: canteiro com gruas e equipe, torres subindo do zero até a entrega conforme o realizado da EAP, com cronograma e previsto x realizado" />
+  <img src="assets/obra-3d.gif" width="880" alt="Avanço de obra em 3D: canteiro com gruas e equipe, torres subindo do zero até a entrega conforme o realizado da EAP, com cronograma, previsto x realizado e as abas Agora, Atividades e Tarefas" />
 </p>
 
 <p align="center">
-  <b>Avanço de obra em 3D · realizado × previsto</b><br />
-  <sub>canteiro inteiro em 3D (gruas, equipe, máquinas) montado a partir do avanço físico ponderado pela EAP · estaca, estrutura, alvenaria, fachada e esquadrias aparecem conforme cada tarefa avança · previsto em fantasma, atraso por atividade e orçado × executado</sub>
+  <b>Power BI · avanço de obra em 3D, realizado × previsto</b><br />
+  <sub>canteiro inteiro em 3D (gruas, equipe, máquinas) montado a partir do avanço físico ponderado pela EAP · abas Agora, Atividades e Tarefas com o que está em execução, o peso de cada atividade e o realizado × previsto por tarefa · estaca, estrutura, alvenaria, fachada e esquadrias aparecem conforme cada tarefa avança · previsto em fantasma, atraso por atividade e orçado × executado</sub>
 </p>
 
 
