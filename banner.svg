@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+  <style>
+    .t { font-family: 'JetBrains Mono', Consolas, 'Courier New', monospace; fill: #f5f5f5; }
+    .s { font-family: 'JetBrains Mono', Consolas, 'Courier New', monospace; fill: #8b8b8b; }
+    .line { stroke-dasharray: 1600; stroke-dashoffset: 1600; animation: draw 3s ease-out forwards; }
+    .dot { opacity: 0; animation: show .4s ease-out 2.8s forwards; }
+    .cur { animation: blink 1s steps(1) infinite; }
+    @keyframes draw { to { stroke-dashoffset: 0; } }
+    @keyframes show { to { opacity: 1; } }
+    @keyframes blink { 50% { opacity: 0; } }
+  </style>
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#1c1c1c" stroke-width="1"/>
+    </pattern>
+    <linearGradient id="area" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffffff" stop-opacity=".14"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="300" fill="#0a0a0a"/>
+  <rect width="1200" height="300" fill="url(#grid)"/>
+
+  <!-- bars -->
+  <g fill="#262626">
+    <rect x="620" y="210" width="22" height="60"/><rect x="660" y="190" width="22" height="80"/>
+    <rect x="700" y="225" width="22" height="45"/><rect x="740" y="170" width="22" height="100"/>
+    <rect x="780" y="150" width="22" height="120"/><rect x="820" y="185" width="22" height="85"/>
+    <rect x="860" y="130" width="22" height="140"/><rect x="900" y="145" width="22" height="125"/>
+    <rect x="940" y="105" width="22" height="165"/><rect x="980" y="120" width="22" height="150"/>
+    <rect x="1020" y="85" width="22" height="185"/><rect x="1060" y="70" width="22" height="200"/>
+    <rect x="1100" y="50" width="22" height="220"/>
+  </g>
+
+  <!-- trend line -->
+  <path d="M600 240 L631 215 L671 200 L711 228 L751 178 L791 160 L831 192 L871 138 L911 150 L951 112 L991 126 L1031 92 L1071 76 L1111 54 L1111 270 L600 270 Z" fill="url(#area)"/>
+  <path class="line" d="M600 240 L631 215 L671 200 L711 228 L751 178 L791 160 L831 192 L871 138 L911 150 L951 112 L991 126 L1031 92 L1071 76 L1111 54" fill="none" stroke="#f5f5f5" stroke-width="2"/>
+  <circle class="dot" cx="1111" cy="54" r="5" fill="#f5f5f5"/>
+
+  <line x1="80" y1="270" x2="1140" y2="270" stroke="#333" stroke-width="1"/>
+
+  <text class="s" x="80" y="104" font-size="16">SELECT * FROM me;</text>
+  <text class="t" x="80" y="160" font-size="46" font-weight="700">Davi Souza<tspan class="cur">_</tspan></text>
+  <text class="s" x="80" y="200" font-size="18">data · bi · sql · python</text>
+</svg>
