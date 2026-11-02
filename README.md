@@ -78,6 +78,523 @@ flowchart LR
 
 </details>
 
+<details>
+<summary><b>3d</b> · minhas linguagens em barras (arraste para girar)</summary>
+<br />
+
+```stl
+solid languages
+facet normal 0 0 0
+ outer loop
+  vertex -2 -2 -1
+  vertex -2 14 -1
+  vertex 70 14 -1
+ endloop
+endfacet
+facet normal 0 0 0
+ outer loop
+  vertex -2 -2 -1
+  vertex 70 14 -1
+  vertex 70 -2 -1
+ endloop
+endfacet
+facet normal 0 0 0
+ outer loop
+  vertex -2 -2 0
+  vertex 70 -2 0
+  vertex 70 14 0
+ endloop
+endfacet
+facet normal 0 0 0
+ outer loop
+  vertex -2 -2 0
+  vertex 70 14 0
+  vertex -2 14 0
+ endloop
+endfacet
+facet normal 0 0 0
+ outer loop
+  vertex -2 -2 -1
+  vertex 70 -2 -1
+  vertex 70 -2 0
+ endloop
+endfacet
+facet normal 0 0 0
+ outer loop
+  vertex -2 -2 -1
+  vertex 70 -2 0
+  vertex -2 -2 0
+ endloop
+endfacet
+facet normal 0 0 0
+ outer loop
+  vertex -2 14 -1
+  vertex -2 14 0
+  vertex 70 14 0
+ endloop
+endfacet
+facet normal 0 0 0
+ outer loop
+  vertex -2 14 -1
+  vertex 70 14 0
+  vertex 70 14 -1
+ endloop
+endfacet
+facet normal 0 0 0
+ outer loop
+  vertex -2 -2 -1
+  vertex -2 -2 0
+  vertex -2 14 0
+ endloop
+endfacet
+facet normal 0 0 0
+ outer loop
+  vertex -2 -2 -1
+  vertex -2 14 0
+  vertex -2 14 -1
+ endloop
+endfacet
+facet normal 0 0 0
+ outer loop
+  vertex 70 -2 -1
+  vertex 70 14 -1
+  vertex 70 14 0
+ endloop
+endfacet
+facet normal 0 0 0
+ outer loop
+  vertex 70 -2 -1
+  vertex 70 14 0
+  vertex 70 -2 0
+ endloop
+endfacet
+facet normal 0 0 0
+ outer loop
+  vertex 2 2 0
+  vertex 2 10 0
+  vertex 10 10 0
+ endloop
+endfacet
+facet normal 0 0 0
+ outer loop
+  vertex 2 2 0
+  vertex 10 10 0
+  vertex 10 2 0
+ endloop
+endfacet
+facet normal 0 0 0
+ outer loop
+  vertex 2 2 54.0
+  vertex 10 2 54.0
+  vertex 10 10 54.0
+ endloop
+endfacet
+facet normal 0 0 0
+ outer loop
+  vertex 2 2 54.0
+  vertex 10 10 54.0
+  vertex 2 10 54.0
+ endloop
+endfacet
+facet normal 0 0 0
+ outer loop
+  vertex 2 2 0
+  vertex 10 2 0
+  vertex 10 2 54.0
+ endloop
+endfacet
+facet normal 0 0 0
+ outer loop
+  vertex 2 2 0
+  vertex 10 2 54.0
+  vertex 2 2 54.0
+ endloop
+endfacet
+facet normal 0 0 0
+ outer loop
+  vertex 2 10 0
+  vertex 2 10 54.0
+  vertex 10 10 54.0
+ endloop
+endfacet
+facet normal 0 0 0
+ outer loop
+  vertex 2 10 0
+  vertex 10 10 54.0
+  vertex 10 10 0
+ endloop
+endfacet
+facet normal 0 0 0
+ outer loop
+  vertex 2 2 0
+  vertex 2 2 54.0
+  vertex 2 10 54.0
+ endloop
+endfacet
+facet normal 0 0 0
+ outer loop
+  vertex 2 2 0
+  vertex 2 10 54.0
+  vertex 2 10 0
+ endloop
+endfacet
+facet normal 0 0 0
+ outer loop
+  vertex 10 2 0
+  vertex 10 10 0
+  vertex 10 10 54.0
+ endloop
+endfacet
+facet normal 0 0 0
+ outer loop
+  vertex 10 2 0
+  vertex 10 10 54.0
+  vertex 10 2 54.0
+ endloop
+endfacet
+facet normal 0 0 0
+ outer loop
+  vertex 16 2 0
+  vertex 16 10 0
+  vertex 24 10 0
+ endloop
+endfacet
+facet normal 0 0 0
+ outer loop
+  vertex 16 2 0
+  vertex 24 10 0
+  vertex 24 2 0
+ endloop
+endfacet
+facet normal 0 0 0
+ outer loop
+  vertex 16 2 25.32
+  vertex 24 2 25.32
+  vertex 24 10 25.32
+ endloop
+endfacet
+facet normal 0 0 0
+ outer loop
+  vertex 16 2 25.32
+  vertex 24 10 25.32
+  vertex 16 10 25.32
+ endloop
+endfacet
+facet normal 0 0 0
+ outer loop
+  vertex 16 2 0
+  vertex 24 2 0
+  vertex 24 2 25.32
+ endloop
+endfacet
+facet normal 0 0 0
+ outer loop
+  vertex 16 2 0
+  vertex 24 2 25.32
+  vertex 16 2 25.32
+ endloop
+endfacet
+facet normal 0 0 0
+ outer loop
+  vertex 16 10 0
+  vertex 16 10 25.32
+  vertex 24 10 25.32
+ endloop
+endfacet
+facet normal 0 0 0
+ outer loop
+  vertex 16 10 0
+  vertex 24 10 25.32
+  vertex 24 10 0
+ endloop
+endfacet
+facet normal 0 0 0
+ outer loop
+  vertex 16 2 0
+  vertex 16 2 25.32
+  vertex 16 10 25.32
+ endloop
+endfacet
+facet normal 0 0 0
+ outer loop
+  vertex 16 2 0
+  vertex 16 10 25.32
+  vertex 16 10 0
+ endloop
+endfacet
+facet normal 0 0 0
+ outer loop
+  vertex 24 2 0
+  vertex 24 10 0
+  vertex 24 10 25.32
+ endloop
+endfacet
+facet normal 0 0 0
+ outer loop
+  vertex 24 2 0
+  vertex 24 10 25.32
+  vertex 24 2 25.32
+ endloop
+endfacet
+facet normal 0 0 0
+ outer loop
+  vertex 30 2 0
+  vertex 30 10 0
+  vertex 38 10 0
+ endloop
+endfacet
+facet normal 0 0 0
+ outer loop
+  vertex 30 2 0
+  vertex 38 10 0
+  vertex 38 2 0
+ endloop
+endfacet
+facet normal 0 0 0
+ outer loop
+  vertex 30 2 19.56
+  vertex 38 2 19.56
+  vertex 38 10 19.56
+ endloop
+endfacet
+facet normal 0 0 0
+ outer loop
+  vertex 30 2 19.56
+  vertex 38 10 19.56
+  vertex 30 10 19.56
+ endloop
+endfacet
+facet normal 0 0 0
+ outer loop
+  vertex 30 2 0
+  vertex 38 2 0
+  vertex 38 2 19.56
+ endloop
+endfacet
+facet normal 0 0 0
+ outer loop
+  vertex 30 2 0
+  vertex 38 2 19.56
+  vertex 30 2 19.56
+ endloop
+endfacet
+facet normal 0 0 0
+ outer loop
+  vertex 30 10 0
+  vertex 30 10 19.56
+  vertex 38 10 19.56
+ endloop
+endfacet
+facet normal 0 0 0
+ outer loop
+  vertex 30 10 0
+  vertex 38 10 19.56
+  vertex 38 10 0
+ endloop
+endfacet
+facet normal 0 0 0
+ outer loop
+  vertex 30 2 0
+  vertex 30 2 19.56
+  vertex 30 10 19.56
+ endloop
+endfacet
+facet normal 0 0 0
+ outer loop
+  vertex 30 2 0
+  vertex 30 10 19.56
+  vertex 30 10 0
+ endloop
+endfacet
+facet normal 0 0 0
+ outer loop
+  vertex 38 2 0
+  vertex 38 10 0
+  vertex 38 10 19.56
+ endloop
+endfacet
+facet normal 0 0 0
+ outer loop
+  vertex 38 2 0
+  vertex 38 10 19.56
+  vertex 38 2 19.56
+ endloop
+endfacet
+facet normal 0 0 0
+ outer loop
+  vertex 44 2 0
+  vertex 44 10 0
+  vertex 52 10 0
+ endloop
+endfacet
+facet normal 0 0 0
+ outer loop
+  vertex 44 2 0
+  vertex 52 10 0
+  vertex 52 2 0
+ endloop
+endfacet
+facet normal 0 0 0
+ outer loop
+  vertex 44 2 17.76
+  vertex 52 2 17.76
+  vertex 52 10 17.76
+ endloop
+endfacet
+facet normal 0 0 0
+ outer loop
+  vertex 44 2 17.76
+  vertex 52 10 17.76
+  vertex 44 10 17.76
+ endloop
+endfacet
+facet normal 0 0 0
+ outer loop
+  vertex 44 2 0
+  vertex 52 2 0
+  vertex 52 2 17.76
+ endloop
+endfacet
+facet normal 0 0 0
+ outer loop
+  vertex 44 2 0
+  vertex 52 2 17.76
+  vertex 44 2 17.76
+ endloop
+endfacet
+facet normal 0 0 0
+ outer loop
+  vertex 44 10 0
+  vertex 44 10 17.76
+  vertex 52 10 17.76
+ endloop
+endfacet
+facet normal 0 0 0
+ outer loop
+  vertex 44 10 0
+  vertex 52 10 17.76
+  vertex 52 10 0
+ endloop
+endfacet
+facet normal 0 0 0
+ outer loop
+  vertex 44 2 0
+  vertex 44 2 17.76
+  vertex 44 10 17.76
+ endloop
+endfacet
+facet normal 0 0 0
+ outer loop
+  vertex 44 2 0
+  vertex 44 10 17.76
+  vertex 44 10 0
+ endloop
+endfacet
+facet normal 0 0 0
+ outer loop
+  vertex 52 2 0
+  vertex 52 10 0
+  vertex 52 10 17.76
+ endloop
+endfacet
+facet normal 0 0 0
+ outer loop
+  vertex 52 2 0
+  vertex 52 10 17.76
+  vertex 52 2 17.76
+ endloop
+endfacet
+facet normal 0 0 0
+ outer loop
+  vertex 58 2 0
+  vertex 58 10 0
+  vertex 66 10 0
+ endloop
+endfacet
+facet normal 0 0 0
+ outer loop
+  vertex 58 2 0
+  vertex 66 10 0
+  vertex 66 2 0
+ endloop
+endfacet
+facet normal 0 0 0
+ outer loop
+  vertex 58 2 2.28
+  vertex 66 2 2.28
+  vertex 66 10 2.28
+ endloop
+endfacet
+facet normal 0 0 0
+ outer loop
+  vertex 58 2 2.28
+  vertex 66 10 2.28
+  vertex 58 10 2.28
+ endloop
+endfacet
+facet normal 0 0 0
+ outer loop
+  vertex 58 2 0
+  vertex 66 2 0
+  vertex 66 2 2.28
+ endloop
+endfacet
+facet normal 0 0 0
+ outer loop
+  vertex 58 2 0
+  vertex 66 2 2.28
+  vertex 58 2 2.28
+ endloop
+endfacet
+facet normal 0 0 0
+ outer loop
+  vertex 58 10 0
+  vertex 58 10 2.28
+  vertex 66 10 2.28
+ endloop
+endfacet
+facet normal 0 0 0
+ outer loop
+  vertex 58 10 0
+  vertex 66 10 2.28
+  vertex 66 10 0
+ endloop
+endfacet
+facet normal 0 0 0
+ outer loop
+  vertex 58 2 0
+  vertex 58 2 2.28
+  vertex 58 10 2.28
+ endloop
+endfacet
+facet normal 0 0 0
+ outer loop
+  vertex 58 2 0
+  vertex 58 10 2.28
+  vertex 58 10 0
+ endloop
+endfacet
+facet normal 0 0 0
+ outer loop
+  vertex 66 2 0
+  vertex 66 10 0
+  vertex 66 10 2.28
+ endloop
+endfacet
+facet normal 0 0 0
+ outer loop
+  vertex 66 2 0
+  vertex 66 10 2.28
+  vertex 66 2 2.28
+ endloop
+endfacet
+endsolid languages
+```
+
+<sub>TypeScript 45.0% · CSS 21.1% · JavaScript 16.3% · HTML 14.8% · C# 1.9% · da esquerda para a direita</sub>
+
+</details>
+
 <h3 align="center">run a query</h3>
 
 <p align="center">
