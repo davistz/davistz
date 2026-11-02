@@ -87,3 +87,11 @@ flowchart LR
     <img height="170" src="https://streak-stats.demolab.com/?user=davistz&disable_animations=true&background=0D1117&border=30363D&stroke=30363D&ring=5FE1FF&fire=FFB84D&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=5FE1FF&sideLabels=8B949E&dates=8B949E" alt="GitHub streak" title="sequência de contribuições" />
   </picture>
 </p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/davistz/davistz/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/davistz/davistz/output/snake-light.svg" />
+    <img src="https://raw.githubusercontent.com/davistz/davistz/output/snake-dark.svg" alt="cobrinha comendo o gráfico de contribuições" title="atualiza todo dia às 03h" />
+  </picture>
+</p>
