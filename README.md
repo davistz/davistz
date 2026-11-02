@@ -37,6 +37,21 @@
   <img src="https://img.shields.io/badge/git-000000?style=for-the-badge&logo=git&logoColor=white" alt="Git" title="Git: tudo versionado, até painel de BI" />
 </p>
 
+<h3 align="center">portfolio · visuais 3D para Power BI</h3>
+
+<p align="center"><sub>visuais próprios (pbiviz, TypeScript + three.js) que rodam dentro do Power BI · dados das demos são fictícios</sub></p>
+
+<p align="center">
+  <img src="assets/vendas-3d.gif" width="880" alt="Espelho de Vendas 3D: empreendimento em 3D girando, alternando camadas de vendas, preço por m², horas de sol e ritmo de venda" />
+</p>
+
+<p align="center">
+  <b>Espelho de Vendas 3D</b><br />
+  <sub>cada apartamento vira um bloco no prédio, pintado por situação, R$/m², horas de sol real (posição do sol por hora e estação) ou dias até a venda · painel ao lado mostra o que mais pesa na venda · clique filtra o relatório</sub>
+</p>
+
+<!-- PORTFOLIO:BIM -->
+
 <details>
 <summary><b>projects</b> · clique para abrir</summary>
 <br />
