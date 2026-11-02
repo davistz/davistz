@@ -78,6 +78,17 @@ flowchart LR
 
 </details>
 
+<h3 align="center">run a query</h3>
+
+<p align="center">
+  <a href="https://github.com/davistz/davistz/issues/new?body=S%C3%B3+clicar+em+%22Create%22.+Um+bot+roda+a+query+e+responde+aqui.&title=query%3A+top_languages" title="roda top_languages nos meus repositórios"><code>top_languages</code></a> · <a href="https://github.com/davistz/davistz/issues/new?body=S%C3%B3+clicar+em+%22Create%22.+Um+bot+roda+a+query+e+responde+aqui.&title=query%3A+recent_repos" title="roda recent_repos nos meus repositórios"><code>recent_repos</code></a> · <a href="https://github.com/davistz/davistz/issues/new?body=S%C3%B3+clicar+em+%22Create%22.+Um+bot+roda+a+query+e+responde+aqui.&title=query%3A+biggest_repos" title="roda biggest_repos nos meus repositórios"><code>biggest_repos</code></a> · <a href="https://github.com/davistz/davistz/issues/new?body=S%C3%B3+clicar+em+%22Create%22.+Um+bot+roda+a+query+e+responde+aqui.&title=query%3A+leaderboard" title="roda leaderboard nos meus repositórios"><code>leaderboard</code></a>
+</p>
+<p align="center"><sub>clique numa query · o GitHub abre uma issue · clique em Create · um bot roda em SQLite sobre meus repositórios e publica o resultado aqui</sub></p>
+
+<!-- QUERY:START -->
+<p align="center"><sub>nenhuma query rodada ainda. seja o primeiro.</sub></p>
+<!-- QUERY:END -->
+
 <h3 align="center">stats</h3>
 
 <p align="center">
