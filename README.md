@@ -39,7 +39,7 @@
 
 <h3 align="center">portfolio · projetos de B.I. em Power BI</h3>
 
-<p align="center"><b>tudo aqui é B.I.</b>: cada projeto abaixo roda dentro de um relatório <b>Power BI</b>, como visual personalizado (pbiviz, TypeScript + three.js)</p>
+<p align="center"><b>tudo aqui é B.I</b>: cada projeto abaixo roda dentro de um relatório <b>Power BI</b></p>
 
 <p align="center">lê as tabelas do modelo de dados (SQL Server / DW → Power Query → DAX), responde aos filtros e segmentações da página e filtra os outros visuais ao clicar · dados das demos são fictícios</p>
 
@@ -70,22 +70,6 @@
   canteiro inteiro em 3D (gruas, equipe, máquinas) montado a partir do avanço físico ponderado pela EAP · abas Agora, Atividades e Tarefas com o que está em execução, o peso de cada atividade e o realizado × previsto por tarefa · estaca, estrutura, alvenaria, fachada e esquadrias aparecem conforme cada tarefa avança · previsto em fantasma, atraso por atividade e orçado × executado
 </p>
 
-
-<details>
-<summary><b>projects</b> · clique para abrir</summary>
-<br />
-
-| repo | stack |
-|---|---|
-| [parada-obrigatoria](https://github.com/davistz/parada-obrigatoria) | HTML |
-| [front-agrese](https://github.com/davistz/front-agrese) | TypeScript |
-| [ApiCotas](https://github.com/davistz/ApiCotas) · [frontend](https://github.com/davistz/ApiCotas-frontend) | C# |
-| [Task-Manager](https://github.com/davistz/Task-Manager) | TypeScript |
-| [site-bruno](https://github.com/davistz/site-bruno) · [ao vivo](https://site-bruno-nine.vercel.app) | CSS |
-| [ConformPlus](https://github.com/davistz/ConformPlus) | JavaScript |
-| [to-do](https://github.com/davistz/to-do) | JavaScript |
-
-</details>
 
 <h3 align="center">stats</h3>
 
