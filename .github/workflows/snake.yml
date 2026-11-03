@@ -1,4 +1,4 @@
-name: snake
+name: snake + stats
 
 on:
   schedule:
@@ -7,6 +7,7 @@ on:
   push:
     paths:
       - .github/workflows/snake.yml
+      - stats/**
 
 permissions:
   contents: write
@@ -15,6 +16,14 @@ jobs:
   snake:
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v4
+
+      - name: stats card
+        env:
+          OWNER: ${{ github.repository_owner }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 stats/stats.py dist
+
       - uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}

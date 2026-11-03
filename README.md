@@ -39,8 +39,9 @@
 
 <h3 align="center">portfolio · projetos de B.I. em Power BI</h3>
 
-<p align="center"><b>tudo aqui é B.I.</b>: cada projeto abaixo roda dentro de um relatório <b>Power BI</b>, como visual personalizado (pbiviz, TypeScript + three.js)<br />
-<sub>lê as tabelas do modelo de dados (SQL Server / DW → Power Query → DAX), responde aos filtros e segmentações da página e filtra os outros visuais ao clicar · dados das demos são fictícios</sub></p>
+<p align="center"><b>tudo aqui é B.I.</b>: cada projeto abaixo roda dentro de um relatório <b>Power BI</b>, como visual personalizado (pbiviz, TypeScript + three.js)</p>
+
+<p align="center">lê as tabelas do modelo de dados (SQL Server / DW → Power Query → DAX), responde aos filtros e segmentações da página e filtra os outros visuais ao clicar · dados das demos são fictícios</p>
 
 <p align="center">
   <img src="assets/vendas-3d.gif" width="880" alt="Espelho de Vendas 3D girando e passando por todas as camadas (vendas, real, preço por m², área, horas de sol e ritmo de venda) enquanto o sol anda pelo dia e as sombras se movem" />
@@ -48,7 +49,7 @@
 
 <p align="center">
   <b>Power BI · Espelho de Vendas 3D</b><br />
-  <sub>cada apartamento vira um bloco no prédio, pintado por situação, R$/m², horas de sol real (posição do sol por hora e estação) ou dias até a venda · na camada Real, luz e sombra seguem o sol de verdade (hora, estação, latitude) · painel ao lado mostra o que mais pesa na venda · clique filtra o relatório</sub>
+  cada apartamento vira um bloco no prédio, pintado por situação, R$/m², horas de sol real (posição do sol por hora e estação) ou dias até a venda · na camada Real, luz e sombra seguem o sol de verdade (hora, estação, latitude) · painel ao lado mostra o que mais pesa na venda · clique filtra o relatório
 </p>
 
 <p align="center">
@@ -57,7 +58,7 @@
 
 <p align="center">
   <b>Power BI · Revit / IFC com visão 5D</b><br />
-  <sub>modelo exportado do Revit em IFC lido direto no relatório (three.js + web-ifc, sem Revit instalado) · cada peça ligada a uma linha pelo GlobalId · 3D + cronograma (4D) + custo por composição (5D): o condomínio inteiro (muro com gradil, guarita, 3 torres com vigas, varandas e cobertura, salão de festas, academia, churrasqueira, piscina, quadra, pet place, quiosques, vias, vagas e paisagismo) vai sendo construído na data de status e o orçamento acompanha</sub>
+  modelo exportado do Revit em IFC lido direto no relatório (three.js + web-ifc, sem Revit instalado) · cada peça ligada a uma linha pelo GlobalId · 3D + cronograma (4D) + custo por composição (5D): o condomínio inteiro (muro com gradil, guarita, 3 torres com vigas, varandas e cobertura, salão de festas, academia, churrasqueira, piscina, quadra, pet place, quiosques, vias, vagas e paisagismo) vai sendo construído na data de status e o orçamento acompanha
 </p>
 
 <p align="center">
@@ -66,7 +67,7 @@
 
 <p align="center">
   <b>Power BI · avanço de obra em 3D, realizado × previsto</b><br />
-  <sub>canteiro inteiro em 3D (gruas, equipe, máquinas) montado a partir do avanço físico ponderado pela EAP · abas Agora, Atividades e Tarefas com o que está em execução, o peso de cada atividade e o realizado × previsto por tarefa · estaca, estrutura, alvenaria, fachada e esquadrias aparecem conforme cada tarefa avança · previsto em fantasma, atraso por atividade e orçado × executado</sub>
+  canteiro inteiro em 3D (gruas, equipe, máquinas) montado a partir do avanço físico ponderado pela EAP · abas Agora, Atividades e Tarefas com o que está em execução, o peso de cada atividade e o realizado × previsto por tarefa · estaca, estrutura, alvenaria, fachada e esquadrias aparecem conforme cada tarefa avança · previsto em fantasma, atraso por atividade e orçado × executado
 </p>
 
 
@@ -86,24 +87,13 @@
 
 </details>
 
-<h3 align="center">run a query</h3>
-
-<p align="center">
-  <a href="https://github.com/davistz/davistz/issues/new?body=S%C3%B3+clicar+em+%22Create%22.+Um+bot+roda+a+query+e+responde+aqui.&title=query%3A+top_languages" title="roda top_languages nos meus repositórios"><code>top_languages</code></a> · <a href="https://github.com/davistz/davistz/issues/new?body=S%C3%B3+clicar+em+%22Create%22.+Um+bot+roda+a+query+e+responde+aqui.&title=query%3A+recent_repos" title="roda recent_repos nos meus repositórios"><code>recent_repos</code></a> · <a href="https://github.com/davistz/davistz/issues/new?body=S%C3%B3+clicar+em+%22Create%22.+Um+bot+roda+a+query+e+responde+aqui.&title=query%3A+biggest_repos" title="roda biggest_repos nos meus repositórios"><code>biggest_repos</code></a> · <a href="https://github.com/davistz/davistz/issues/new?body=S%C3%B3+clicar+em+%22Create%22.+Um+bot+roda+a+query+e+responde+aqui.&title=query%3A+leaderboard" title="roda leaderboard nos meus repositórios"><code>leaderboard</code></a>
-</p>
-<p align="center"><sub>clique numa query · o GitHub abre uma issue · clique em Create · um bot roda em SQLite sobre meus repositórios e publica o resultado aqui</sub></p>
-
-<!-- QUERY:START -->
-<p align="center"><sub>nenhuma query rodada ainda. seja o primeiro.</sub></p>
-<!-- QUERY:END -->
-
 <h3 align="center">stats</h3>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=davistz&disable_animations=true&background=0D1117&border=30363D&stroke=30363D&ring=5FE1FF&fire=FFB84D&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=5FE1FF&sideLabels=8B949E&dates=8B949E" />
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=davistz&disable_animations=true&background=FFFFFF&border=D0D7DE&stroke=D0D7DE&ring=0969DA&fire=BF8700&currStreakNum=1F2328&sideNums=1F2328&currStreakLabel=0969DA&sideLabels=59636E&dates=59636E" />
-    <img height="170" src="https://streak-stats.demolab.com/?user=davistz&disable_animations=true&background=0D1117&border=30363D&stroke=30363D&ring=5FE1FF&fire=FFB84D&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=5FE1FF&sideLabels=8B949E&dates=8B949E" alt="GitHub streak" title="sequência de contribuições" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/davistz/davistz/output/stats-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/davistz/davistz/output/stats-light.svg" />
+    <img src="https://raw.githubusercontent.com/davistz/davistz/output/stats-dark.svg" width="880" alt="contribuições no último ano, sequência atual, maior sequência e linguagens mais usadas" title="atualiza todo dia" />
   </picture>
 </p>
 
