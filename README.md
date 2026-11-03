@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.svg" alt="Davi — nós de dados formando o nome · data · bi · sql · python" width="100%" />
+  <img src="banner.svg" alt="Davi: buraco negro com lente gravitacional entortando galáxias e estrelas, disco de estrelas em órbita e DAVI em código Morse" width="100%" />
 </p>
 
 <p align="center">
